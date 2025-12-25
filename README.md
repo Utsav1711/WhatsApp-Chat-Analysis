@@ -35,12 +35,14 @@ visualization techniques.
 
 ## 🛠 Tech Stack
 
-  Category          Tools
-  ----------------- --------------------------------
-  Language          Python
-  UI Framework      Streamlit
-  Data Processing   Pandas, Regex
-  Visualization     Matplotlib, Seaborn, WordCloud
+| Category        | Tools / Libraries |
+|-----------------|------------------|
+| Programming     | Python |
+| Dashboard UI    | Streamlit |
+| Data Processing | Pandas, Regex |
+| Visualization   | Matplotlib, Seaborn, WordCloud |
+| File Handling   | WhatsApp `.txt` chat export |
+
 
 ------------------------------------------------------------------------
 
